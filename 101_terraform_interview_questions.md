@@ -37,7 +37,7 @@
 ##
 #### 3. You made a module. One Terraform code uses that module. But, now, you improved that module, but the "caller" code is not compatible with the new version of the module.  How can you have both versions of the module in use?
 
-######   Answer: You can have verions on your modules and the caller code can refer to specific version of the module.
+######   Answer: You can have versions on your modules and the caller code can refer to specific version of the module.
 
 
 ##
